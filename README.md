@@ -1,2 +1,3 @@
-# juliahopkins.github.io
-Website with experience and research
+# Julia Hopkins
+
+Welcome to my website that's in progress!
